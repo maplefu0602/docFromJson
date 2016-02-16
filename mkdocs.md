@@ -11,7 +11,7 @@ pages:
 - Home: index.md
 - GDC:
   - [GDC](gdc/about.md)
-  * [Data Portal](data-portal/about.md)
+  * [Data Portal](docs/data-portal/about.md)
   * [Submission GUI](submission-gui/01-Using_the_GDC_Data_Submission_Portal_User_Guide.md)
   * [Data Transfer Tool](data-transfer-tool/about.md)
   * [API](API/01_-_Using_the_GDC_API_User_s_Guide.md)
