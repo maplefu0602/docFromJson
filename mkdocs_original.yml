@@ -1,4 +1,4 @@
-
+#
 # GDC Docs - Config
 #
 
@@ -24,7 +24,7 @@ pages:
   - Getting Started: 'submission-gui/02-Getting_Started_with_the_GDC_Data_Submission_Portal.md'
   - Overview and Features: 'submission-gui/03-Overview_and_Features.md'
   - Authentication and User Access: 'submission-gui/04-Authentication_And_User_Access.md'
-  - Landing Page: '05-Landing-Page.md'
+  - Landing Page: 'submission-gui/05-Landing-Page.md'
   - Dashboard: 'submission-gui/06-Dashboard.md'
   - Dictionary Viewer: 'submission-gui/07-Dictionary-Viewer.md'
   - Submit Data: 'submission-gui/08-Submit_data.md'
