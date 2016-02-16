@@ -10,6 +10,11 @@ theme_dir: theme
 pages:
 - Home: index.md
 - GDC:
+  - [GDC](gdc/about.md)
+  * [Data Portal](data-portal/about.md)
+  * [Submission GUI](submission-gui/01-Using_the_GDC_Data_Submission_Portal_User_Guide.md)
+  * [Data Transfer Tool](data-transfer-tool/about.md)
+  * [API](API/01_-_Using_the_GDC_API_User_s_Guide.md)
   - About: 'gdc/about.md'
   - Authentication & Authorization: 'gdc/authentication-authorization.md'
   - Data Processing Software: 'gdc/data-processing-software-and-algorithms/data-harmonization.md'
